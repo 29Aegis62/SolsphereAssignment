@@ -1,0 +1,5 @@
+backend/app/__pycache__/
+.env
+*.db
+*.pyc
+solenv/
